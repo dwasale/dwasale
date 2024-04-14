@@ -1,11 +1,9 @@
 # Rudra Raj Ale Magar
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png")
-">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Thumps up" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png")
-">
+  <source media="(prefers-color-scheme: dark)" srcset="![IMG_2996](https://github.com/dwasale/dwasale/assets/51404876/bf5a5e07-1348-4879-8234-bc7d6b222d15)">
+  <source media="(prefers-color-scheme: light)" srcset="![IMG_2996](https://github.com/dwasale/dwasale/assets/51404876/8d6f41e7-76c9-4e8a-a814-1db872d141f2)">
+  <img alt="Thumps up" src="![IMG_2996](https://github.com/dwasale/dwasale/assets/51404876/3fc5f0ff-5fe1-4580-b7ab-145c23a34e24)">
 </picture>
 
 ### Profile
