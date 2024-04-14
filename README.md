@@ -1,8 +1,8 @@
 # Rudra Raj Ale Magar
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="![IMG_2996](https://github.com/dwasale/dwasale/assets/51404876/bf5a5e07-1348-4879-8234-bc7d6b222d15)">
-  <source media="(prefers-color-scheme: light)" srcset="![IMG_2996](https://github.com/dwasale/dwasale/assets/51404876/8d6f41e7-76c9-4e8a-a814-1db872d141f2)">
+  <source media="(prefers-color-scheme: dark)" srcset="IMG_2996.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="IMG_2996.jpg">
   <img alt="Thumps up" src="![IMG_2996](https://github.com/dwasale/dwasale/assets/51404876/3fc5f0ff-5fe1-4580-b7ab-145c23a34e24)">
 </picture>
 
