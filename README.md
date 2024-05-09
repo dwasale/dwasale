@@ -7,9 +7,10 @@
 </picture>
 
 ### Profile
-Well organised, accomplished, dedicated and deadline oriented software tester with 3 years of experience in manual testing environment. Creating test cases, performing functionality testing, integration testing, system testing and regression testing manually, collaborating with developers and project managers to achieve the highest standard in quality and goal on or before the deadline with the proven expertise in software reliability and performance by conducting quality assurance including test case development and execution, implementing test plans and bug tracking. Always seeking to exceed and excel quality and standard in both workplace and on projects. As my background as a software developer and with coding skills, I was introduced with automation testing as well with well knowledge about Selenium and Maven and automation tools, cucumber framework as BDD tool.
+As a bartender looking to transition into a new career, I have been studying web development and creating small projects to assess my skills. Through the HyperionDev boot camp, I aim to reach a proficiency level that will enable me to land my first tech job.
+My drive to learn new technologies and deliver efficient solutions motivates me. I find joy in programming and possess a deep understanding of Java programming. I strive to incorporate computational automation into my work, focusing on practicality and reliability in all my projects.
 
 **Skills**
 * Java, Test Automation Framework, Selenium/WebDriver, TestNG, Jenkins
 
-* Additional programming skills C++, C#, .Net, MSSQL Server, MVC, JavaScript, HTML and CSS.
+* Additional programming skills C++, C#, .Net, MS SQL Server, MVC, JavaScript, HTML and CSS.
